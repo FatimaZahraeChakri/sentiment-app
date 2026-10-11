@@ -67,9 +67,10 @@ sentiment-app/
 └── docs/cadrage/         # fiches de cadrage, exemple corrigé, grille, banque de cas
 ```
 
-## Membres du binôme
+## Membres du trinome
 
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
-| Membre A | [Nom 1] | [@login] | |
-| Membre B | [Nom 2] | [@login] | |
+| Membre A | [OMRI Hiba] | [@HibaOmri] | |
+| Membre B | [Chakri Fatimazahra] | [@FatimaZahraeChakri] | |
+| Membre C | [Benomar Kholoud] | [@FushiSushi] | |
