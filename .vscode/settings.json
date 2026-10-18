@@ -8,5 +8,8 @@
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
-  "[markdown]": { "files.trimTrailingWhitespace": false }
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
